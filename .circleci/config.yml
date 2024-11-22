@@ -39,7 +39,6 @@ jobs:
           key: v1-dependencies-{{ checksum "composer.json" }}
           paths:
             - ./vendor
- 
       # Exécution des tests avec PHPUnit
       - run:
           name: "Run tests"
