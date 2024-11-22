@@ -1,2 +1,1 @@
-[![Maintainability](https://api.codeclimate.com/v1/badges/aa8a1b30bcb8ac872151/maintainability)](https://codeclimate.com/github/Dylan-Orecchioni/kali-tests/maintainability)
-
+[![Maintainability](https://api.codeclimate.com/v1/badges/41874b4d0415e132f65a/maintainability)](https://codeclimate.com/github/Dylan-Orecchioni/kali-tests/maintainability)
