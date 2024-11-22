@@ -1,0 +1,10 @@
+version: "2"
+checks:
+  argument-count:
+    enabled: true
+  method-complexity:
+    config:
+      threshold: 10
+ratings:
+  paths:
+    - "**.php"
